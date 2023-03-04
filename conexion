@@ -1,0 +1,3 @@
+if (conexion.conectar()==null){   //si la conexion esta vacia
+mensaje= "no se pudo conectar";
+}else{ //si hay conexion, regristrar
